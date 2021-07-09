@@ -21,8 +21,10 @@
         * The Candidate who got highest votes and won the election  is Diana DeGette with votes of 272,892  and vote percentage of 73.8%.
         Please find the below screenshot in the support of above voting counts.
         
-        ![image](https://user-images.githubusercontent.com/86328230/125142043-58ab9980-e0dc-11eb-8bd9-9714949651d6.png)
+        ![image](https://user-images.githubusercontent.com/86328230/125142043-58ab9980-e0dc-11eb-8bd9-9714949651d6.png) 
+        
         ![image](https://user-images.githubusercontent.com/86328230/125141995-30bc3600-e0dc-11eb-85b4-4951d668f085.png)
+        
         
 
 
