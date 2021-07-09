@@ -18,9 +18,10 @@
                  Charles Casper Stockham: 23.0% (85,213)
                  Diana DeGette: 73.8% (272,892) 
                  Raymon Anthony Doane: 3.1% (11,606) 
-        * The Candidate who got highest votes and won the election  is Diana DeGette with votes of      272,892  and vote percentage of 73.8%.
+        * The Candidate who got highest votes and won the election  is Diana DeGette with votes of 272,892  and vote percentage of 73.8%.
         Please find the below screenshot in the support of above voting counts.
 
 
 ## Election-Audit Summary
-    The Summary of this Project is we develop a python script to calculate the vote percentage and to decide the winning candidate and winning county. we write the results to the txt file.In future also we can use this python script to calculte the elections even with multiple counties  or multiple candidates. If the input position in dataset changes  i.e., for example if the position of county_name and candidate_name changes we have to do some modification in python script i.e., when reading the those columns to the variable. And  If any new input columns are added to the input dataset those modifications also need to be done in the python script according to the requirements. 
+    The Summary of this Project is we develop a python script to calculate the vote percentage and to decide the winning candidate and winning county.
+     we write the results to the txt file.In future also we can use this python script to calculte the elections even with multiple counties  or multiple candidates      If the input position in dataset changes  i.e., for example if the position of county_name and candidate_name changes we have to do some modification in python      script i.e., when reading the those columns to the variable. And  If any new input columns are added to the input dataset those modifications also need to be        done in the python script according to the requirements. 
