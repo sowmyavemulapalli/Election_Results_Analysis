@@ -19,18 +19,13 @@
                  Diana DeGette: 73.8% (272,892) 
                  Raymon Anthony Doane: 3.1% (11,606) 
         * The Candidate who got highest votes and won the election  is Diana DeGette with votes of 272,892  and vote percentage of 73.8%.
-        Please find the below screenshot in the support of above voting counts.
         
-        ![image](https://user-images.githubusercontent.com/86328230/125142292-00c16280-e0dd-11eb-9c60-e6d5eafd3eae.png)
+  Please find the below screenshot in the support of above voting counts.
+        
+ ![image](https://user-images.githubusercontent.com/86328230/125142292-00c16280-e0dd-11eb-9c60-e6d5eafd3eae.png)
 
         
-        ![image](https://user-images.githubusercontent.com/86328230/125142043-58ab9980-e0dc-11eb-8bd9-9714949651d6.png) 
-        
-        ![image](https://user-images.githubusercontent.com/86328230/125141995-30bc3600-e0dc-11eb-85b4-4951d668f085.png)
-        
-        
-
-
+ ![image](https://user-images.githubusercontent.com/86328230/125142043-58ab9980-e0dc-11eb-8bd9-9714949651d6.png) 
 
 ## Election-Audit Summary
     The Summary of this Project is to develop a python script to calculate the vote percentage and to decide 
