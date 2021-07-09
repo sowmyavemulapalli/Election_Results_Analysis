@@ -23,5 +23,10 @@
 
 
 ## Election-Audit Summary
-    The Summary of this Project is we develop a python script to calculate the vote percentage and to decide the winning candidate and winning county.
-     we write the results to the txt file.In future also we can use this python script to calculte the elections even with multiple counties  or multiple candidates      If the input position in dataset changes  i.e., for example if the position of county_name and candidate_name changes. we have to do some modification in            python script i.e., when reading the those columns to the variable. And  If any new input columns are added to the input dataset those modifications also            need to be done in the python script according to the requirements. 
+    The Summary of this Project is to develop a python script to calculate the vote percentage and to decide the winning candidate and to 
+    determine the county with largest number of votes. we write the results to the txt file.
+    In future also we can use this python script to calculte the elections even with multiple counties  or multiple candidates
+    If the input position in dataset changes  i.e., for example if the position of county_name and candidate_name changes. 
+    we have to do some modification in python script i.e., when reading the those columns to the variable. 
+    And  If any new input columns are added to the input dataset those modifications also need to be done 
+    in the python script according to the requirements. 
